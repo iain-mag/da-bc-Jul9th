@@ -1,5 +1,9 @@
 # AEM Block Collection
 
+https://main--da-bc-jul9th--iain-mag.aem.page/
+https://main--da-bc-jul9th--iain-mag.aem.live/
+
+
 This project provides a foundation for starting an AEM Edge Delivery Services project. It includes many common blocks and features a project might need.
 
 ## DA compatible
